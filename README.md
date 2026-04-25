@@ -293,6 +293,14 @@ Nexus_Rag/
 
 ## Team Members
 
+**Prachi Garg 2420800**
+
+**Saurav Thakur**
+
+**Owais Nazir**
+
+**Rinklepreet Kaur**
+
 ---
 
 <div align="center">
